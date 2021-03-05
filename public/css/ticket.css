@@ -1,0 +1,67 @@
+ .ticket {
+  font-size: 12px;
+  font-family: 'Times New Roman';
+}
+ 
+td,
+th,
+tr,
+table {
+  border-top: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+.tituloproductos{
+  font-size: 8px;
+  text-align: center;
+}
+.productos{
+  font-size: 8px;
+}
+td.producto,
+th.producto {
+  width: 60px;
+  max-width: 60px;
+}
+ 
+td.cantidad,
+th.cantidad {
+  width: 30px;
+  max-width: 30px;
+  word-break: break-all;
+  
+}
+ 
+td.precio,
+th.precio {
+  width: 50px;
+  max-width: 50px;
+  word-break: break-all;
+}
+td.subtotal,
+th.subtotal {
+  width: 50px;
+  max-width: 50px;
+  word-break: break-all;
+}
+ 
+.centrado {
+  text-align: center;
+  align-content: center;
+}
+ 
+.ticket {
+  width: 200px;
+  max-width: 200px;
+  max-height: 120%;
+}
+ 
+img {
+  max-width: inherit;
+  width: inherit;
+}
+@media print{
+  .oculto-impresion, .oculto-impresion *{
+    display: none !important;
+  }
+}
