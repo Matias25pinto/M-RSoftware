@@ -3,7 +3,10 @@
 _Sistema web para punto de Ventas_
 
 ## Comenzando 🚀
-
+_Para probar el sistema ingrese al link: [M&RSoftware](http://programadorespysistema.com/sispeluqueria/)_
+_Credenciales:_
+_correo:administrador@programadorespy.com_
+_contraseña: admin123_
 _Tenga el control total de su negocio, cuanto vende y que compra, que producto tiene más salida, control de stock real, control de clientes, control de vendedores y mucho más._
 _Ventajas del sistema M&R es totalmente web que lo hace multiplataforma se puede acceder desde cualquier dispositivo computadora, table, smartphone._
 
