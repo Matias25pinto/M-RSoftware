@@ -56,4 +56,4 @@ _Instalar paquetes de php artisan_
 
 ## Autores ✒️
 
-* **Matias Pinto** - *Todas la aplicación* - [matias25pinto](https://github.com/Matias25pinto)
+* **Matias Pinto** - *Toda la aplicación* - [matias25pinto](https://github.com/Matias25pinto)
